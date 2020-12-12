@@ -127,3 +127,14 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+
+# Mac
+.DStore
+
+# PyCharm
+.idea
+
+# Ignore files
+/data/credentials/credentials.py
